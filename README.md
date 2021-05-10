@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/14u2ZI1XhkoZCU/giphy.gif)
+![Alt Text](https://media.giphy.com/media/14u2ZI1XhkoZCU/giphy.gif | width=100)
 
 ## Meteorite Landings
 
