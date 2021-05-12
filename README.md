@@ -16,4 +16,4 @@ Our main focus was pointed towards the following questions:
 - How were meteorites discovered during time where science was not advanced enough to separate elements from Earth vs meteorites?
 
 ## DATA
-The data for this project was found in a CSV dataset located in https://data.world/nasa/meteorite-landings. This dataset contained over 45,000 entries which was converted into a database using SQL. 
+The data for this project was found in a CSV dataset located in https://data.world/nasa/meteorite-landings. This dataset contained over 45,000 entries which was converted into a database using SQL. Data utilized in the query includes the mass, year that it fell or was found, and the geographical location using the latitude and longitude.
