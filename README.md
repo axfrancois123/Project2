@@ -15,4 +15,4 @@ Our main focus was pointed towards the following questions:
 - 
 
 ## DATA
-The data for this project was found in a CSV dataset located in https://data.world/nasa/meteorite-landings. This dataset contained over 45,000 entries
+The data for this project was found in a CSV dataset located in https://data.world/nasa/meteorite-landings. This dataset contained over 45,000 entries which was converted into a database using SQL. 
